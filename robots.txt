@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-0c5bd5f1fa.jsnjaci.cn/sitemap.xml
